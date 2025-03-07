@@ -1,4 +1,4 @@
-! [IFS text](/lib/img/IFS.png)
+![git text](/lib/img/IFS.png)
 
 # Traker For PUBG 🍃
 adalah shell script C yang saya bikin untuk
