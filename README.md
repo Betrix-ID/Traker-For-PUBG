@@ -4,10 +4,13 @@
 adalah shell script C yang saya bikin untuk
 unlock grafis PUBG Mobile ke " Soomth Ultra Extreme "
 
+
 ![bifor text](/lib/img/Bifor.png)
+# Bifor
 > sebelum menggunakan script shell C Traker For PUBG
 
 ![after text](/lib/img/After.png)
+# After
 > sesudah mengguakan scirpt shell C Traker For PUBG
 
 ## ⚠️Notes Efek :
