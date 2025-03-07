@@ -1,1 +1,1 @@
-! [git 1](/lib/img/IFS.png)
+! [IFS 1](/lib/img/IFS.png)
